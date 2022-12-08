@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nishdhana15
-- 👀 I’m interested in solving business problems, sql and python 
+- 👀 I’m like solving business problems, sql and python 
 - 🌱 I’m currently learning data Analytics 
 - 💞️ I’m looking to collaborate on learning new innovative ways to code
 - 📫 How to reach me nishdhana15@gmail.com
